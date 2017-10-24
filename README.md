@@ -1,3 +1,2 @@
 # hello_world
-demo of samba
-     repositary
+demo of git commands
